@@ -1,12 +1,12 @@
-# Anomaly_Detection
+# Anomaly_Detection_Simple
 
-### Project's Title: Anomaly Detection
+### Project's Title: Anomaly Detection Simple
 
 
 ### Project Description (Problem Statement): 
 - We will implement an anomaly detection algorithm to detect anomalous behavior in server computers.
 
-- We will use a Gaussian model to detect anomalous examples in our dataset.
+- We will use a Gaussian distribution to detect anomalous examples in our dataset.
 
 
 ### Table of Contents:
@@ -24,7 +24,7 @@
 
 To successfully run this project you have to do the following steps:
 
-	Step 1. Run the "Anomaly_Detection" Jupyter Notebook file on your PC/Notebook.
+	Step 1. Run the "Anomaly_Detection_Simple" Jupyter Notebook file here online or on your local PC/Notebook.
 
 	Step 2. Import all required libraries and data frames from the Section "Importing modules".
 
