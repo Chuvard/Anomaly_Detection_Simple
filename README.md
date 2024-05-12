@@ -6,7 +6,7 @@
 ### Project Description (Problem Statement): 
 - We will implement an anomaly detection algorithm to detect anomalous behavior in server computers.
 
-- We will use a Gaussian distribution to detect anomalous examples in our dataset.
+- We will use a Gaussian model to detect anomalous examples in our dataset.
 
 
 ### Table of Contents:
